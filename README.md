@@ -79,6 +79,7 @@ After running the setup, you can log in with the demo user credentials (check th
 - User authentication and management
 - Movie browsing and search functionality
 - Built with Laravel Livewire for reactive UI components
+- The pagination is kinda messy on the first page only in the UI
 
 ## Commands
 
