@@ -95,6 +95,12 @@ After running the setup, you can log in with the demo user credentials (check th
 
 ## Notes
 
+ADD These to your .env
+TMDB_API_KEY=270ccae76ef88d45ef7b1db15fd8b869
+TMDB_ACCESS_TOKEN=
+TMDB_BASE_URL=https://api.themoviedb.org/3
+TMDB_IMAGE_BASE_URL=https://image.tmdb.org/t/p
+
 This application was built primarily focusing on backend functionality. The UI uses Laravel Livewire for simplicity and functionality rather than complex frontend frameworks.
 
 ## Support
