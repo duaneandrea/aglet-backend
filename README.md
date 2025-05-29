@@ -101,6 +101,8 @@ TMDB_ACCESS_TOKEN=
 TMDB_BASE_URL=https://api.themoviedb.org/3
 TMDB_IMAGE_BASE_URL=https://image.tmdb.org/t/p
 
+The database is in the directory **database/aglet_backend.sql**
+
 This application was built primarily focusing on backend functionality. The UI uses Laravel Livewire for simplicity and functionality rather than complex frontend frameworks.
 
 ## Support
