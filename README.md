@@ -66,6 +66,7 @@ A Laravel-based movie application that imports popular movies and provides user 
    chmod +x docker-setup.sh
    ./docker-setup.sh
    ```
+   **If permissions are an issue run docker-setup-with-permissions.sh first**
 
 The Docker setup will automatically handle all dependencies, database setup, migrations, seeding, and movie imports.
 
